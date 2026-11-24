@@ -48,6 +48,10 @@
 
 ## Step 3: Software Setup
 
+### Windhawk:
+- Download the latest release from [Windhawk-Services-Backup-Utility](https://github.com/scorpion421/Windhawk-Services-Backup-Utility)
+- Browse for the location where you want to restore the configurations from (or backup your configurations).
+- Select Execute Restore Operations to perform Restore (or Execute Backup Operation to perform backup).
 ### CopyQ:
 - Open terminal as administrator.
 - Paste this command: reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "DisabledHotkeys" /t REG_SZ /d "V" /f
