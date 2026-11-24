@@ -1,19 +1,20 @@
 ## Current Peripherals
 - Laptop : HP Pavillion 15-ec2004AX / 15-ec2008AX
 - CPU : Ryzen 5 5600H
-- GPU : GTX 1650 (4GB)
+- GPU : GTX 1650 (4GB) 55W
 - RAM : 16GB
-	- Samsung 8GB DDR2 3200MHz
-	- AData 8GB DDR2 3200MHz
+	- Samsung 8GB DDR4 3200MHz
+	- AData 8GB DDR4 3200MHz
 - Storage : 1.5TB
 	- 512GB NVME SSD
 	- 1TB 2.5'' SATA SSD
 - OS :
 	- Currently using
 		- Windows 11
+  		- CachyOS
 	- Used in past
-		- Linux Mint
 		- Windows 10
-	- Planned for future
-		- Arch Linux / Fedora / Cachy OS
+		- Linux Mint
+		- Fedora
+		- Endeavour OS
 - Mouse : Ant Esports GM320 RGB
